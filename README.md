@@ -37,8 +37,12 @@ ___________________________________
 - Need to read this in another languages?
 
 
-- nvite your friend, share the community and remember, you are now an integral part the Scryptoons Team!
+- Invite your friend, share the community and remember, you are now an integral part the Scryptoons Team!
   ...psst.... some times to times, we have special event or as we do, we like to share so stick stay around!
+
+
+Want some [NFT almost Free? Just go here](https://nftdegen.lol/nft/collection?id=0x3a1C745041db3FdA163eF8D97C51304134E4d9C5) and If you can't afford it, send me or us a message and we will get you some, for free!
+Here is some of the NFT [people made so far](https://www.jeeves.market/portfolio/0xEe0579b4C36fd52EC0A2B542fb801F136838B7f1?chain=degen&tab=items)
 ______________________________________
 
 
