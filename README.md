@@ -3,29 +3,21 @@
 ![Scryptoons](https://github.com/user-attachments/assets/25f34254-74c6-4638-b45f-92c8d0bd3f63)
 __________________________
 
-### Contributing guide
+### __Contributing guide__
 Welcome to the Scryptoons GitHub page! We created this project to educate people from different backgrounds and learning experiences, to discover org, people, or purposely designed programs in the web3 space that have a positive impacts surrounding regenerative cryptoeconomy, or in some cases degenerative concepts-applications.
 
-Which side will you choose to be? (You can also select both...)
-
-____________________________
-- SuperHeroes
-- OR?
-- Villain
-  
+Which side will you choose to be? You can also select both... ''__SuperHeroes or a Villain?__''
 
 
-SuperHeroes
-Villain
-Current roadmap:
-SuperHeroes characters partial release (13)
-Villain characters partial release (6)
-Description on each character
-Coming up soon!
-LLM to let the user, org, frens, people or public, generate their own Superhero or Villain (Work-In-Progress)
-Blockchain concepts (Work-In-Progress)
-Cartoons concepts digital book production (This is where the real fun begin)
-SCRYPT_OONS
+
+_____________________________
+- ## __Current roadmap__:
+- SuperHeroes characters partial release (13)
+- Villain characters partial release (6)
+- Description on each character coming up soon!
+-  _Work-In-Progress_ LLM to let the user, org, frens, people or public, generate their own Superhero or Villain  
+-  Blockchain concepts (Work-In-Progress) Cartoons concepts digital book production 
+- This is where the real fun begin ''_SCRYPTOONS_''
 
 
 Together, we create community with inclusivity, no judgements or adversaries as with any negative measures, each must adapt or be flexible with the code of conduct where respect and security is our top priority.
@@ -41,14 +33,15 @@ __________________________________
 ___________________________________
 
 
-- 🇯🇵 🇰🇷 🇨🇳 🇺🇸 🇫🇷 🇪🇸 🇮🇹 🇷🇺 🇬🇧 🇬🇧 🇩🇪
+- ### __🇯🇵 🇰🇷 🇨🇳 🇺🇸 🇫🇷 🇪🇸 🇮🇹 🇷🇺 🇬🇧 🇬🇧 🇩🇪__
 - Need to read this in another languages?
 
-- Scryptoons is on social media: ![Here](https://x.com/Scryptoons)
 
 - nvite your friend, share the community and remember, you are now an integral part the Scryptoons Team!
   ...psst.... some times to times, we have special event or as we do, we like to share so stick stay around!
 ______________________________________
+
+
 
 
 
@@ -57,3 +50,4 @@ ______________________________________
 ______________________________________
 ![SCRYPT_OONS](https://github.com/user-attachments/assets/638b0eb9-c29b-4b89-8fde-d62b50bffb8b)
 
+ __The Scryptoons community, for the community²³__ 
