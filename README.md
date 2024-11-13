@@ -46,10 +46,15 @@ Here is some of the NFT [people made so far](https://www.jeeves.market/portfolio
 ______________________________________
 
 
+![ManyID_NFT_1](https://github.com/user-attachments/assets/3f6609c7-64d8-4266-b79f-386dacb14813) ![Coord_NFT_1](https://github.com/user-attachments/assets/e3bbfb1b-b63d-4eb0-b401-b21d2c932a3e) 
 
 
 
-![ManyID_NFT_1](https://github.com/user-attachments/assets/3f6609c7-64d8-4266-b79f-386dacb14813)
+                                                                                                                                                                                                                                                             
+
+
+
+
 
 ______________________________________
 ![SCRYPT_OONS](https://github.com/user-attachments/assets/638b0eb9-c29b-4b89-8fde-d62b50bffb8b)
