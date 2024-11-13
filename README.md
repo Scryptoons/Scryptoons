@@ -29,7 +29,7 @@ _________________________________
 
 __________________________________
 
-![CryptoQueen_NFT_1](https://github.com/user-attachments/assets/5395bb83-0dc2-4e79-8387-2ec268174df4) |![Optimizer_NFT_1](https://github.com/user-attachments/assets/80054039-eeb9-41f3-9094-34d4bebc5b1e) ![MetaMage_NFT_1](https://github.com/user-attachments/assets/bb9d89a0-ca7f-4009-8612-9534fcc29773) ![ILuvYou_NFT_1](https://github.com/user-attachments/assets/31f8bb49-6078-42d2-953b-9d0d1010c5f5)
+![CryptoQueen_NFT_1](https://github.com/user-attachments/assets/5395bb83-0dc2-4e79-8387-2ec268174df4) ![Optimizer_NFT_1](https://github.com/user-attachments/assets/80054039-eeb9-41f3-9094-34d4bebc5b1e) ![MetaMage_NFT_1](https://github.com/user-attachments/assets/bb9d89a0-ca7f-4009-8612-9534fcc29773) ![ILuvYou_NFT_1](https://github.com/user-attachments/assets/31f8bb49-6078-42d2-953b-9d0d1010c5f5)
 ___________________________________
 
 
